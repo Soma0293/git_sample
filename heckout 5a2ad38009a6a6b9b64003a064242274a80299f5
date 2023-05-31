@@ -1,0 +1,11 @@
+[33mcommit e11cbef3c4f2d5541369b7b6ff852f3adee25dc5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Soma <thaumatrope@suou.waseda.jp>
+Date:   Wed May 31 18:07:11 2023 +0900
+
+    fixed Hello ->Addition sample.py
+
+[33mcommit 5a2ad38009a6a6b9b64003a064242274a80299f5[m
+Author: Soma <thaumatrope@suou.waseda.jp>
+Date:   Wed May 31 18:00:27 2023 +0900
+
+    creat sample.py
